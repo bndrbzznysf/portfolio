@@ -11,8 +11,6 @@ ul{margin-top: 2rem; margin-bottom: 3rem;}
 
 i {font-size: 20px; margin: 1rem; color: white}
 
-img {width: 70%;}
-
 hr {margin-top: 4rem;
     margin-bottom: 4rem;
     width: 100%;}
@@ -80,6 +78,8 @@ hr {margin-top: 4rem;
 .os img {width: 150px; 
          height: auto;}
 
+
+.projets img {width: 60%}
 
 
 footer {background-color: #323b4c;
